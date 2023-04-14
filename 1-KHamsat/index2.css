@@ -1,0 +1,114 @@
+body{
+	
+	margin:0;
+	padding:0;
+		
+	}
+	
+.paragragh-picture {
+	width:100%;
+	background-color:black;
+	display:flex;
+	justify-content:space-around;
+	align-items:center;
+	margin:0;
+	margin-bottom:40px;
+	}
+.paragragh-picture div{
+	width:48%;
+	margin:2px;
+	
+	}
+	
+.paragragh-picture img{
+	width:100%;
+	
+	}
+
+.paragragh-picture .xcv{
+	padding:50px 150px;
+	font-size:200%;
+	color:white;
+	
+	}
+
+/**************************************************************************************/
+
+.parentpicture{
+	width:90%;
+	margin:50px auto;
+	
+	}
+
+.flexpicture {
+	width:98%;
+	display:flex;
+	justify-content:space-between;
+	flex-wrap:wrap;
+	margin:10px auto;
+	padding:10px;
+	
+	}
+
+.flexpicture div{
+	width:20%;
+	margin:10px;
+	font-size:20px;
+	font-weight:bold;
+	
+	}
+
+.flexpicture img{
+	width:100%;
+		
+	}
+/****************************************************************************/
+
+.link_and_discription {
+	width:90%;
+	margin:30px auto;
+	
+	}
+	
+.flex_div_l_a_d {
+	width:98%;
+	display:flex;
+	justify-content:space-between;
+	margin:10px auto;
+	padding:10px;
+	
+	}
+	
+.flex_div_l_a_d .make-link-in-block{
+	width:24%;
+	margin:2px;
+	
+	}
+
+.flex_div_l_a_d p{
+	width:100%;
+	font-size:13px;
+	color:gray;
+	margin-top:-10px;
+	margin-bottom:30px;
+	
+	}
+	
+.flex_div_l_a_d a{
+	width:100%;
+	font-size:14px;
+	color:blue;
+
+	}
+	
+.link_and_discription button{	
+	margin:10px 15px;
+	padding:15px 10px;
+	border:.6px solid black;
+	font-size:15px;
+	
+	}
+	
+h1{
+	margin:15px;
+}
